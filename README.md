@@ -5,7 +5,7 @@ Easy day-to-day usage projects via Arduino.
 Arduino is a open-source electronic platform comprising of both software and hardware . The hardware part is  a [microcontroller](https://www.engineersgarage.com/microcontroller) which is controlled by the Arduino programming language through **it's own IDE(Integrated Development Environment)**. It was initially created by the Ivrea Interaction Design Institute as a tool for fast prototyping. It is widely used by electronics enthusiasts around the world who have used create projects of various complexity and thus have contributed to the open-source community .
 
 ## Why Arduino ?
-Arduino programming language is roughly based on C++ which makes it free of any hardcore-programming. Thus anyone- children,hobbyists, artists,scientists can start working on the same. The fact that it is open-source and runs across platforms- Windows, MacOS, Linux operating systems gives it an edge over other microcontrollers which mainly run on Windows-based systems .
+Arduino programming language is roughly based on C++ which makes it free of any hardcore-programming. Thus anyone- children,hobbyists, artists,scientists etc. can start working on the same. The fact that it is open-source and runs across platforms- Windows, MacOS, Linux operating systems gives it an edge over [other microcontrollers](https://en.wikipedia.org/wiki/Intel_MCS-51) which mainly run on Windows-based systems .
 
 ## Getting Started
 ### Install Arduino IDE
