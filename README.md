@@ -1,5 +1,5 @@
 # uArduino
-Easy day-to-day usage projects via Arduino.
+Implementing easy day-to-day usage projects via Arduino.
 
 ## What is an Arduino ?
 Arduino is a open-source electronic platform comprising of both software and hardware . The hardware part is  a [microcontroller](https://www.engineersgarage.com/microcontroller) which is controlled by the Arduino programming language through **it's own IDE(Integrated Development Environment)**. It was initially created by the Ivrea Interaction Design Institute as a tool for fast prototyping. It is widely used by electronics enthusiasts around the world who have used create projects of various complexity and thus have contributed to the open-source community .
